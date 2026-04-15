@@ -1,6 +1,6 @@
 # 🏗️ Esfera Construção - Projeto de Engenharia Civil
 <div align="center">
-<img src="https://via.placeholder.com/800x450.png?text=Mockup+Esfera+Construcao" alt="Esfera Construção Mockup" width="100%">
+<img src="" alt="Esfera Construção Mockup" width="100%">
 </div>
 
 <br />
@@ -15,8 +15,8 @@
 <img src="https://img.shields.io/badge/LICENSE-MIT-green?style=flat-square" alt="License MIT" />
 <img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-yellow?style=flat-square" alt="Status" />
 </div>
-
-##🚀 Sobre o Projeto
+---
+## 🚀 Sobre o Projeto
 O Esfera Construção é um site institucional desenvolvido para o setor de construção civil e engenharia. O projeto foca em uma interface moderna, apresentando serviços, portfólio de projetos e canais de contato de forma clara e profissional.
 
 ### ✨ Por que o Esfera Construção se destaca?
