@@ -1,66 +1,53 @@
 # 🏗️ Esfera Construção - Projeto de Engenharia Civil
+
 <div align="center">
-<img src="" alt="Esfera Construção Mockup" width="100%">
+  <img src="https://64.media.tumblr.com/79188d8b9f694f4886616429f635f791/f05f41097654b419-48/s2048x3072/179541a463d18e3848b64e03080f339655f58356.png" alt="Esfera Construção Mockup" width="100%">
 </div>
 
 <br />
 
 <div align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </div>
 
 <div align="center">
-<img src="https://img.shields.io/badge/LICENSE-MIT-green?style=flat-square" alt="License MIT" />
-<img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-yellow?style=flat-square" alt="Status" />
+  <img src="https://img.shields.io/badge/LICENSE-MIT-green?style=flat-square" alt="License MIT" />
+  <img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-yellow?style=flat-square" alt="Status" />
 </div>
-<hr>
+
 ## 🚀 Sobre o Projeto
-O Esfera Construção é um site institucional desenvolvido para o setor de construção civil e engenharia. O projeto foca em uma interface moderna, apresentando serviços, portfólio de projetos e canais de contato de forma clara e profissional.
+O **Esfera Construção** é um site institucional desenvolvido para o setor de construção civil e engenharia. O projeto foca em uma interface moderna, apresentando serviços, portfólio de projetos e canais de contato de forma clara e profissional.
 
 ### ✨ Por que o Esfera Construção se destaca?
-- Design Responsivo: Adaptado para visualização em desktops, tablets e dispositivos móveis.
-
-- Carrossel de Projetos: Sistema dinâmico para navegação entre os principais trabalhos realizados.
-
-Performance: Uso de técnicas de carregamento otimizado (imagens .avif) para maior velocidade.
-
-- Experiência do Usuário: Navegação suave (Smooth Scroll) entre as seções da página.
+* **Design Responsivo:** Adaptado para visualização em desktops, tablets e dispositivos móveis.
+* **Carrossel de Projetos:** Sistema dinâmico para navegação entre os principais trabalhos realizados.
+* **Performance:** Uso de técnicas de carregamento otimizado (imagens .avif) para maior velocidade.
+* **Experiência do Usuário:** Navegação suave (Smooth Scroll) entre as seções da página.
 
 ## 🛠️ Tecnologias Utilizadas
-- HTML5 & CSS3: Estrutura e estilização avançada com uso de variáveis CSS para consistência de cores.
-
-- JavaScript (Vanilla): Lógica de navegação, manipulação de menu mobile e controle de slides.
-
-- Fontes Personalizadas: Integração de fontes Google Fonts (Raleway) e fontes locais (Avenir/TT Norms).
-
-- Imagens de Alta Qualidade: Utilização do formato .avif para melhor compressão sem perda de qualidade.
+* **HTML5 & CSS3:** Estrutura e estilização avançada com uso de variáveis CSS para consistência de cores.
+* **JavaScript (Vanilla):** Lógica de navegação, manipulação de menu mobile e controle de slides.
+* **Fontes Personalizadas:** Integração de fontes Google Fonts (Raleway) e fontes locais (Avenir/TT Norms).
+* **Imagens de Alta Qualidade:** Utilização do formato .avif para melhor compressão sem perda de qualidade.
 
 ## 📋 Navegação
-- Sobre o Projeto
-
-- Funcionalidades
-
-- Estrutura de Arquivos
-
-- Como Executar
-
-- Licença
+* [Sobre o Projeto](#-sobre-o-projeto)
+* [Funcionalidades](#-funcionalidades)
+* [Estrutura de Arquivos](#-estrutura-de-arquivos)
+* [Como Executar](#-como-executar)
+* [Licença](#-licença)
 
 ## ⚙️ Funcionalidades
-- Menu Mobile: Menu lateral interativo para melhor usabilidade em telas pequenas.
-
-- Seção "Quem Somos": Apresentação institucional com layout em parallax e texto descritivo.
-
-- Galeria de Projetos: Slideshow interativo com botões de navegação e links para páginas detalhadas.
-
-- Formulário de Contato: Área dedicada para captação de leads e suporte ao cliente.
-
--Rodapé Informativo: Links sociais, informações de contato e créditos de desenvolvimento.
+* **Menu Mobile:** Menu lateral interativo para melhor usabilidade em telas pequenas.
+* **Seção "Quem Somos":** Apresentação institucional com layout em parallax e texto descritivo.
+* **Galeria de Projetos:** Slideshow interativo com botões de navegação e links para páginas detalhadas.
+* **Formulário de Contato:** Área dedicada para captação de leads e suporte ao cliente.
+* **Rodapé Informativo:** Links sociais, informações de contato e créditos de desenvolvimento.
 
 ## 📂 Estrutura de Arquivos
-Plaintext
+```plaintext
 ├── img/                # Ativos de imagem (Logos, Ícones, Projetos)
 ├── index.html          # Página principal (Landing Page)
 ├── project.html        # Página de exibição do carrossel
@@ -69,21 +56,3 @@ Plaintext
 ├── projetoI.css        # Estilos específicos para as páginas de projeto
 ├── script.js           # Lógica principal e scroll suave
 └── projectum.js        # Lógica de controle do carrossel
-## 🏗️ Como Executar
-1. Clone este repositório:
-
-Bash
-git clone https://github.com/seu-usuario/esfera-construcao.git
-2. Navegue até a pasta do projeto.
-
-3. Abra o arquivo index.html em qualquer navegador moderno.
-
-## 📄 Licença
-Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
-
-<div align="center">
-<p>Desenvolvido com ❤️ por Mateus Gonçalves dos Santos</p>
-<a href="https://github.com/mateusgoncalves2008">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-</div>
