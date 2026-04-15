@@ -1,126 +1,88 @@
-# 🏗️ ESFERA CONSTRUÇÃO
+<div align="center">
+<img src="https://via.placeholder.com/800x450.png?text=Mockup+Esfera+Construcao" alt="Esfera Construção Mockup" width="100%">
+</div>
 
-> 🚀 Site institucional moderno para empresa de construção civil
-> 💡 Foco em apresentação profissional, experiência do usuário e navegação fluida
+<br />
 
----
+<div align="center">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</div>
 
-## 📌 Sobre o Projeto
+<div align="center">
+<img src="https://img.shields.io/badge/LICENSE-MIT-green?style=flat-square" alt="License MIT" />
+<img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-yellow?style=flat-square" alt="Status" />
+</div>
 
-O **Esfera Construção** é um site institucional desenvolvido para apresentar serviços, projetos e informações de uma empresa do setor de construção civil.
+🚀 Sobre o Projeto
+O Esfera Construção é um site institucional desenvolvido para o setor de construção civil e engenharia. O projeto foca em uma interface moderna, apresentando serviços, portfólio de projetos e canais de contato de forma clara e profissional.
 
-Ele foi pensado para transmitir:
+✨ Por que o Esfera Construção se destaca?
+Design Responsivo: Adaptado para visualização em desktops, tablets e dispositivos móveis.
 
-* 🧱 **Credibilidade**
-* ⚙️ **Organização**
-* 🎯 **Profissionalismo**
+Carrossel de Projetos: Sistema dinâmico para navegação entre os principais trabalhos realizados.
 
-Com uma interface moderna, responsiva e com efeitos visuais que elevam a experiência do usuário.
+Performance: Uso de técnicas de carregamento otimizado (imagens .avif) para maior velocidade.
 
----
+Experiência do Usuário: Navegação suave (Smooth Scroll) entre as seções da página.
 
-## 🌐 Acesse o Projeto
+🛠️ Tecnologias Utilizadas
+HTML5 & CSS3: Estrutura e estilização avançada com uso de variáveis CSS para consistência de cores.
 
-🔗 **Site:** (adicione aqui quando publicar)
-🔗 **Repositório:** (link do GitHub)
+JavaScript (Vanilla): Lógica de navegação, manipulação de menu mobile e controle de slides.
 
----
+Fontes Personalizadas: Integração de fontes Google Fonts (Raleway) e fontes locais (Avenir/TT Norms).
 
-## ⚙️ Tecnologias Utilizadas
+Imagens de Alta Qualidade: Utilização do formato .avif para melhor compressão sem perda de qualidade.
 
-* 🧾 **HTML5** → Estrutura do site
-* 🎨 **CSS3** → Estilização e responsividade
-* ⚡ **JavaScript** → Interatividade e animações
+📋 Navegação
+Sobre o Projeto
 
----
+Funcionalidades
 
-## 🧠 Funcionalidades
+Estrutura de Arquivos
 
-* 📱 Menu mobile interativo
-* 🎥 Vídeo de fundo (efeito moderno)
-* 🧭 Navegação com scroll suave
-* 🏗️ Seção de serviços bem detalhada
-* 🖼️ Galeria de projetos com hover animado
-* 👥 Área de clientes
-* 📍 Mapa integrado (Google Maps)
-* ✉️ Formulário de contato
+Como Executar
 
----
+Licença
 
-## 📂 Estrutura do Projeto
+⚙️ Funcionalidades
+Menu Mobile: Menu lateral interativo para melhor usabilidade em telas pequenas.
 
-```
-📁 projeto/
-├── index.html       # Estrutura principal do site
-├── style.css        # Estilização completa
-├── script.js        # Funcionalidades e interações
-├── img/             # Imagens do site
-├── video/           # Vídeo de fundo
-└── font/            # Fontes utilizadas
-```
+Seção "Quem Somos": Apresentação institucional com layout em parallax e texto descritivo.
 
----
+Galeria de Projetos: Slideshow interativo com botões de navegação e links para páginas detalhadas.
 
-## 🎯 Seções do Site
+Formulário de Contato: Área dedicada para captação de leads e suporte ao cliente.
 
-* 🏠 **Home** → Apresentação principal com impacto visual
-* 🧰 **Serviços** → Explicação detalhada dos serviços
-* 🧑‍💼 **Quem Somos** → Identidade da empresa
-* 🏗️ **Projetos** → Portfólio visual
-* 👥 **Clientes** → Empresas atendidas
-* 📞 **Contato** → Formulário + localização
+Rodapé Informativo: Links sociais, informações de contato e créditos de desenvolvimento.
 
----
+📂 Estrutura de Arquivos
+Plaintext
+├── img/                # Ativos de imagem (Logos, Ícones, Projetos)
+├── index.html          # Página principal (Landing Page)
+├── project.html        # Página de exibição do carrossel
+├── projectI.html       # Página de detalhes de projetos específicos
+├── style.css           # Estilização geral e layout responsivo
+├── projetoI.css        # Estilos específicos para as páginas de projeto
+├── script.js           # Lógica principal e scroll suave
+└── projectum.js        # Lógica de controle do carrossel
+🏗️ Como Executar
+Clone este repositório:
 
-## 🚀 Como Rodar o Projeto
+Bash
+git clone https://github.com/seu-usuario/esfera-construcao.git
+Navegue até a pasta do projeto.
 
-1. Clone o repositório:
+Abra o arquivo index.html em qualquer navegador moderno.
 
-```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-```
+📄 Licença
+Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
-2. Abra a pasta:
-
-```bash
-cd seu-repositorio
-```
-
-3. Execute o arquivo:
-
-```bash
-index.html
-```
-
----
-
-## 📈 Melhorias Futuras
-
-* 🔐 Integração com backend (formulário funcional)
-* 🌍 SEO otimizado
-* ⚡ Performance avançada
-* 📊 Dashboard administrativo
-
----
-
-## 👨‍💻 Autor
-
-Desenvolvido por **Mateus Gonçalves** 💻🔥
-
----
-
-## 📜 Licença
-
-Este projeto está sob a licença MIT.
-Sinta-se livre para usar, modificar e evoluir 🚀
-
----
-
-## 💬 Observação Final
-
-Este projeto não é só um site…
-É uma vitrine digital que vende confiança antes mesmo do cliente falar com você.
-
-👉 Quem tem presença forte na internet, domina o jogo.
-
----
+<div align="center">
+<p>Desenvolvido com ❤️ por Mateus Gonçalves dos Santos</p>
+<a href="https://github.com/mateusgoncalves2008">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+</div>
