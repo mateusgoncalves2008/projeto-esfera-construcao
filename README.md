@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/LICENSE-MIT-green?style=flat-square" alt="License MIT" />
 <img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-yellow?style=flat-square" alt="Status" />
 </div>
----
+<hr>
 ## 🚀 Sobre o Projeto
 O Esfera Construção é um site institucional desenvolvido para o setor de construção civil e engenharia. O projeto foca em uma interface moderna, apresentando serviços, portfólio de projetos e canais de contato de forma clara e profissional.
 
