@@ -1,45 +1,61 @@
-🏗️ Esfera Construção - Landing Page Corporativa
-A Esfera Construção é um site institucional moderno desenvolvido para o setor de construção civil e infraestrutura. O projeto foca em uma experiência de utilizador fluida, utilizando técnicas avançadas de front-end para apresentar serviços, portfólio e informações de contacto de forma profissional.
+Entendi! O problema é que, ao copiar e colar, a formatação Markdown (que usa asteriscos e hashes) às vezes não é interpretada corretamente se o editor não estiver em modo "Preview" ou se houver algum erro de sintaxe.
 
-🚀 Funcionalidades Principais
-Navegação Inteligente: Menu mobile responsivo com transições suaves e fecho intuitivo.
+Vou estruturar o seu README da Esfera Construção usando exatamente o mesmo estilo visual e organização que você enviou do projeto do Android.
 
-Carrossel Dinâmico de Projetos: Sistema que alterna automaticamente imagens, títulos e descrições detalhadas dos projetos realizados.
+Aqui está o conteúdo pronto para você copiar:
 
-Scroll Suave (Smooth Scroll): Implementação personalizada de navegação por âncoras para uma transição elegante entre as secções da página.
+Esfera Construção — Landing Page Corporativa
+Projeto profissional em HTML, CSS e JavaScript que apresenta a identidade e os serviços da Esfera Construção. Este projeto demonstra habilidades avançadas em animações, manipulação dinâmica de dados e otimização de performance.
 
-Gestão de Dados via URL: Utilização de URLSearchParams para identificar e carregar o projeto correto a partir da página principal.
+Visão rápida
+Página Institucional: Focada em conversão e apresentação de serviços.
 
-Design Responsivo: Totalmente adaptado para dispositivos móveis, tablets e desktops.
+Diferenciais Técnicos: Uso de JavaScript Vanilla para carrosséis dinâmicos e scroll suave personalizado.
 
-🛠️ Tecnologias Utilizadas
-HTML5 Semântico: Estruturação focada em SEO e acessibilidade.
+Demo (GitHub Pages): https://mateusgoncalves2008.github.io/Esfera-Construcao/ (Habilite as páginas nas configurações se necessário).
 
-CSS3: Layouts baseados em Flexbox/Grid e animações personalizadas.
+Como executar localmente
+Clone o repositório: git clone https://github.com/mateusgoncalves2008/Esfera-Construcao.git
 
-JavaScript (Vanilla): Lógica de negócio, manipulação do DOM e controlo do carrossel sem dependências externas.
+Entre na pasta do projeto: cd Esfera-Construcao
 
-Formato AVIF: Utilização de imagens de última geração para garantir alta qualidade com baixo peso de carregamento.
+Abra o arquivo: Abra o index.html diretamente no navegador ou use a extensão Live Server do VS Code.
 
-📂 Estrutura do Projeto
-index.html: Página principal contendo as secções de Home, Serviços, Quem Somos, Projetos e Contacto.
+Estrutura do projeto
+index.html — Conteúdo principal e seções da landing page.
 
-projectI.html: Estrutura de página dedicada à exibição detalhada dos projetos.
+projectI.html — Página dinâmica para exibição detalhada de projetos.
 
-script.js: Controla a interatividade do menu e o sistema de scroll suave.
+style.css / projetoI.css — Estilização moderna e responsiva.
 
-projectumI.js: Contém a base de dados dos projetos e a lógica do slideshow interativo.
+script.js — Lógica do menu mobile e sistema de scroll suave.
 
-📖 Como visualizar
-Clone o repositório ou descarregue os arquivos.
+projectumI.js — Gerenciamento dinâmico de dados (títulos e descrições) dos projetos.
 
-Certifique-se de manter a estrutura de pastas (img/, video/).
+img/ e video/ — Ativos de mídia otimizados em formato .avif e .mp4.
 
-Abra o arquivo index.html em qualquer navegador moderno.
+Destaques Técnicos
+Este projeto vai além do HTML/CSS básico:
 
-👤 Desenvolvedor
-Nome: Mateus Gonçalves dos Santos.
+Lógica de Slideshow: Implementação de um carrossel que altera dinamicamente textos e imagens sem recarregar a página.
 
-GitHub: mateusgoncalves2008.
+Smooth Scroll: Função de easing em JavaScript para uma navegação fluida entre seções.
 
-Instagram: @mateus_goncalves.s.
+Tratamento de URL: Uso de URLSearchParams para identificar qual projeto exibir com base no link clicado.
+
+Como contribuir
+Garfe este repositório (Fork).
+
+Crie uma ramificação: git checkout -b feature/minha-melhoria
+
+Faça compromissos claros: git commit -m "Adiciona nova funcionalidade X"
+
+Envie sua filial: git push origin feature/minha-melhoria
+
+Abra um Pull Request.
+
+Licença
+MIT — veja o arquivo LICENSE para mais detalhes.
+
+Autor
+Mateus Gonçalves — https://github.com/mateusgoncalves2008
