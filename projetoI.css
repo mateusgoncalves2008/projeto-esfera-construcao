@@ -1,19 +1,19 @@
 @font-face {
     font-family: "Avenir grosso";
     src: url("font/avenir-similar-fonts/avenir-similar-fonts/TT-Norms-Font/TT-Norms-Medium.otf")
-        format('opentype');
+        format(opentype);
 }
 
 @font-face {
     font-family: "Avenir fino";
     src: url("font/avenir-similar-fonts/avenir-similar-fonts/TT-Norms-Font/TT-Norms-Regular.otf")
-        format('opentype');
+        format(opentype);
 }
 
 @font-face {
     font-family: "Avenir finoI";
     src: url("font/avenir-similar-fonts/avenir-similar-fonts/TT-Norms-Font/TT-Norms-Thin.otf")
-        format('opentype');
+        format(opentype);
 }
 
 * {
@@ -253,7 +253,7 @@ footer {
     padding: 40px 20px;
     text-align: center;
     font-family: "Raleway", sans-serif;
-    width: 96.12%;
+    width: 96.1.2%;
     height: 100%;
 
     #footer {
@@ -297,7 +297,7 @@ footer {
     }
 
     img:hover {
-        opacity: 1;
+        opacity: 2;
         transform: scale(1.09);
     }
 }
@@ -1425,7 +1425,7 @@ footer {
             }
 
             #corpo-fotos {
-                justify-content: center;
+                justify-items: center;
                 padding: 0rem 0rem;
                 width: 45%;
             }
