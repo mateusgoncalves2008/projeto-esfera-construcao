@@ -1,7 +1,7 @@
 # 🏗️ Esfera Construção - Projeto de Engenharia Civil
 
 <div align="center">
-  <img src="https://64.media.tumblr.com/79188d8b9f694f4886616429f635f791/f05f41097654b419-48/s2048x3072/179541a463d18e3848b64e03080f339655f58356.png" alt="Esfera Construção Mockup" width="100%">
+  <img src="preview-site.png" alt="Esfera Construção Mockup" width="100%">
 </div>
 
 <br />
