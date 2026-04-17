@@ -1,7 +1,7 @@
 # 🏗️ Esfera Construção - Projeto de Engenharia Civil
 
 <div align="center">
-  <img src="preview-site.png" alt="Esfera Construção Mockup" width="100%">
+  <img src="./preview-site.png" alt="Esfera Construção Mockup" width="100%">
 </div>
 
 <br />
