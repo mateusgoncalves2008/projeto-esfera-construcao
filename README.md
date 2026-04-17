@@ -4,6 +4,10 @@
   <img src="public/preview-site.png" alt="Esfera Construção Mockup" width="100%">
 </div>
 
+<div align="center">
+  <img src="Esfera Construção.png" alt="Esfera Construção Mockup" width="100%">
+</div>
+
 <br />
 
 <div align="center">
