@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="preview-site.png.png" alt="Esfera Construção Mockup" width="100%">
+  <img src="preview-site.png.png" alt="Esfera Construção Mockup" width="10%">
 </div>
 
 <br />
