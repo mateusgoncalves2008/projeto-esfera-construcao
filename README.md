@@ -120,10 +120,3 @@ O **Esfera Construção** é um site institucional desenvolvido para o setor de 
 ├── projetoI.css        # Estilos específicos para as páginas de projeto
 ├── script.js           # Lógica principal e scroll suave
 └── projectum.js        # Lógica de controle do carrossel
-
-<div align="center">
-<p>Desenvolvido com ❤️ por Mateus Gonçalves dos Santos</p>
-<a href="https://github.com/mateusgoncalves2008">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-</div>
