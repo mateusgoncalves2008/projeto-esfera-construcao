@@ -120,17 +120,6 @@ O **Esfera Construção** é um site institucional desenvolvido para o setor de 
 ├── projetoI.css        # Estilos específicos para as páginas de projeto
 ├── script.js           # Lógica principal e scroll suave
 └── projectum.js        # Lógica de controle do carrossel
-🏗️ Como Executar
-Clone este repositório:
-
-Bash
-git clone [https://github.com/mateusgoncalves2008/esfera-construcao.git](https://github.com/mateusgoncalves2008/esfera-construcao.git)
-Navegue até a pasta do projeto.
-
-Abra o arquivo index.html em qualquer navegador moderno.
-
-📄 Licença
-Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
 <div align="center">
 <p>Desenvolvido com ❤️ por Mateus Gonçalves dos Santos</p>
