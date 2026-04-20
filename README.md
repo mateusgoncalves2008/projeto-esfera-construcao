@@ -1,6 +1,6 @@
 # Esfera Construção - Projeto de Engenharia Civil
 
-<img width="1536" height="1024" alt="esfera-construcao" src="esfera-construcao" />
+<img width="1536px" height="1024px" alt="esfera-construcao.png" src="esfera-construcao" />
 
 <br />
 
