@@ -2,7 +2,7 @@
 
 <div align="center" height="20">
 
-![Preview do Site](esfera-construcao(3).png)
+![Preview do Site](esfera-construcao.png)
 
 </div>
 
