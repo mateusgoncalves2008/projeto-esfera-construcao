@@ -1,11 +1,11 @@
 # Esfera Construção - Projeto de Engenharia Civil
 
-<img   alt="esfera-construcao.png" src="esfera-construcao" />
-<div align="center" width="1536 height="1024">
+<div align="center" width="153 height="102">
 
 ![Preview do Site](esfera-construcao.png)
 
 </div>
+
 <br />
 
 <div align="center">
