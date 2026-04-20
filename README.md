@@ -1,7 +1,7 @@
 <img width="1536" height="1024" alt="esfera-construcao(1)" src="https://github.com/user-attachments/assets/487b54c8-fef0-4ec1-8a75-e883caa42301" /># 🏗️ Esfera Construção - Projeto de Engenharia Civil
 
 <div align="center">
-  <img src="esfera-construcao(2).png" alt="Esfera Construção Mockup" height="50%" width="40%">
+  <img src="esfera-construcao.png" alt="Esfera Construção Mockup" height="50%" width="40%">
 </div>
 
 <br />
