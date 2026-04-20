@@ -22,13 +22,13 @@
 ## 🚀 Sobre o Projeto
 O **Esfera Construção** é um site institucional desenvolvido para o setor de construção civil e engenharia. O projeto foca em uma interface moderna, apresentando serviços, portfólio de projetos e canais de contato de forma clara e profissional.
 
-### ✨ Por que o Esfera Construção se destaca?
+### Por que o Esfera Construção se destaca?
 * **Design Responsivo:** Adaptado para visualização em desktops, tablets e dispositivos móveis.
 * **Carrossel de Projetos:** Sistema dinâmico para navegação entre os principais trabalhos realizados.
 * **Performance:** Uso de técnicas de carregamento otimizado (imagens .avif) para maior velocidade.
 * **Experiência do Usuário:** Navegação suave (Smooth Scroll) entre as seções da página.
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 * **HTML5 & CSS3:** Estrutura e estilização avançada com uso de variáveis CSS para consistência de cores.
 * **JavaScript (Vanilla):** Lógica de navegação, manipulação de menu mobile e controle de slides.
 * **Fontes Personalizadas:** Integração de fontes Google Fonts (Raleway) e fontes locais (Avenir/TT Norms).
