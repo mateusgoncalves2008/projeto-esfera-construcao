@@ -1,4 +1,4 @@
-# 🏗️ Esfera Construção - Projeto de Engenharia Civil
+# Esfera Construção - Projeto de Engenharia Civil
 <img width="1536" height="1024" alt="esfera-construcao" src="https://github.com/user-attachments/assets/487b54c8-fef0-4ec1-8a75-e883caa42301" />
 
 
