@@ -20,7 +20,6 @@ O Esfera Construção é um site institucional desenvolvido para o setor de cons
 🧠 **Experiência Fluida** — Scroll suave entre seções
 
 ## 🧭 Navegação
-
 A estrutura do projeto foi pensada para ser simples e intuitiva:
 
 🏠 **Home (index.html)** — Página principal com apresentação da empresa
