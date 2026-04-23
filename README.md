@@ -1,58 +1,88 @@
-# Esfera Construção - Projeto de Engenharia Civil
-<div align="center" height="20">
-  
-![Preview do Site](preview-site.png)
-
-</div>
-<br />
-
+Esfera Construção - Projeto de Engenharia Civil
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-</div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/LICENSE-MIT-green?style=flat-square" alt="License MIT" />
-  <img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-yellow?style=flat-square" alt="Status" />
-</div>
+</div> <br /> <div align="center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> </div> <div align="center"> <img src="https://img.shields.io/badge/LICENSE-MIT-green?style=flat-square" /> <img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-yellow?style=flat-square" /> </div>
+🚀 Sobre o Projeto
 
-## 🚀 Sobre o Projeto
-O **Esfera Construção** é um site institucional desenvolvido para o setor de construção civil e engenharia. O projeto foca em uma interface moderna, apresentando serviços, portfólio de projetos e canais de contato de forma clara e profissional.
+O Esfera Construção é um site institucional desenvolvido para o setor de construção civil e engenharia. O projeto apresenta uma interface moderna, com foco em clareza, performance e experiência do usuário.
 
-### Por que o Esfera Construção se destaca?
-* **Design Responsivo:** Adaptado para visualização em desktops, tablets e dispositivos móveis.
-* **Carrossel de Projetos:** Sistema dinâmico para navegação entre os principais trabalhos realizados.
-* **Performance:** Uso de técnicas de carregamento otimizado (imagens .avif) para maior velocidade.
-* **Experiência do Usuário:** Navegação suave (Smooth Scroll) entre as seções da página.
+💡 Diferenciais do Projeto
+📱 Design Responsivo — Funciona perfeitamente em qualquer dispositivo
+🎞️ Carrossel de Projetos — Navegação dinâmica e intuitiva
+⚡ Alta Performance — Imagens otimizadas (.avif)
+🧠 Experiência Fluida — Scroll suave entre seções
+🧭 Navegação
 
-## Tecnologias Utilizadas
-* **HTML5 & CSS3:** Estrutura e estilização avançada com uso de variáveis CSS para consistência de cores.
-* **JavaScript (Vanilla):** Lógica de navegação, manipulação de menu mobile e controle de slides.
-* **Fontes Personalizadas:** Integração de fontes Google Fonts (Raleway) e fontes locais (Avenir/TT Norms).
-* **Imagens de Alta Qualidade:** Utilização do formato .avif para melhor compressão sem perda de qualidade.
+A estrutura do projeto foi pensada para ser simples e intuitiva:
 
-## 📋 Navegação
-* [Sobre o Projeto](#-sobre-o-projeto)
-* [Funcionalidades](#-funcionalidades)
-* [Estrutura de Arquivos](#-estrutura-de-arquivos)
-* [Como Executar](#-como-executar)
-* [Licença](#-licença)
+🏠 Home (index.html) — Página principal com apresentação da empresa
+🏗️ Projetos (project.html) — Exibição em carrossel
+📄 Detalhes (projectI.html) — Informações específicas de cada projeto
+📞 Contato — Seção para comunicação com clientes
+⚙️ Funcionalidades
+📱 Menu Mobile Interativo
+🏢 Seção "Quem Somos" com Parallax
+🎯 Galeria de Projetos com Slideshow
+📩 Formulário de Contato
+🔗 Rodapé Completo com Links Sociais
+🧪 Tecnologias Utilizadas
+🧱 HTML5 & CSS3 — Estrutura e layout responsivo
+⚙️ JavaScript (Vanilla) — Interatividade e lógica do sistema
+🔤 Google Fonts + Fontes Locais
+🖼️ Imagens otimizadas (.avif)
+📂 Estrutura de Arquivos
+├── img/                # Imagens (logos, ícones, projetos)
+├── index.html          # Página principal
+├── project.html        # Carrossel de projetos
+├── projectI.html       # Página de detalhes
+├── style.css           # Estilo global
+├── projetoI.css        # Estilos específicos
+├── script.js           # Lógica geral
+└── projectum.js        # Controle do carrossel
+▶️ Como Executar
 
-## ⚙️ Funcionalidades
-* **Menu Mobile:** Menu lateral interativo para melhor usabilidade em telas pequenas.
-* **Seção "Quem Somos":** Apresentação institucional com layout em parallax e texto descritivo.
-* **Galeria de Projetos:** Slideshow interativo com botões de navegação e links para páginas detalhadas.
-* **Formulário de Contato:** Área dedicada para captação de leads e suporte ao cliente.
-* **Rodapé Informativo:** Links sociais, informações de contato e créditos de desenvolvimento.
+Simples e direto, do jeito que um dev raiz gosta:
 
-## 📂 Estrutura de Arquivos
-```plaintext
-├── img/                # Ativos de imagem (Logos, Ícones, Projetos)
-├── index.html          # Página principal (Landing Page)
-├── project.html        # Página de exibição do carrossel
-├── projectI.html       # Página de detalhes de projetos específicos
-├── style.css           # Estilização geral e layout responsivo
-├── projetoI.css        # Estilos específicos para as páginas de projeto
-├── script.js           # Lógica principal e scroll suave
-└── projectum.js        # Lógica de controle do carrossel
+💻 Método 1 — Abrir direto
+Baixe ou clone o repositório:
+git clone https://github.com/seu-usuario/esfera-construcao.git
+Abra o arquivo:
+index.html
+🌐 Método 2 — Usando servidor local (RECOMENDADO)
+
+Se quiser rodar como um profissional:
+
+VS Code + Live Server
+
+Instale a extensão Live Server
+Clique com botão direito no index.html
+Clique em "Open with Live Server"
+
+🔥 Isso evita bugs com caminhos e melhora testes
+
+📜 Licença
+
+Este projeto está sob a licença MIT.
+
+Isso significa:
+✔️ Pode usar
+✔️ Pode modificar
+✔️ Pode distribuir
+
+Desde que mantenha os créditos do autor.
+
+👨‍💻 Autor
+
+Desenvolvido por Mateus Gonçalves
+🎯 Futuro médico e também mente afiada na tecnologia
+
+🔮 Visão de Futuro
+
+Esse projeto não é só um site… é um começo.
+
+Possíveis evoluções:
+
+🔐 Sistema de login para clientes
+🗂️ Painel administrativo
+📊 Dashboard de projetos
+🌍 Integração com APIs reais
